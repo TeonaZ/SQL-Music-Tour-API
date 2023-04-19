@@ -9,6 +9,12 @@ module.exports = {
       available_start_time: new Date(),
       end_time: new Date()
     },
+    {
+      name: 'jonnas brother',
+      genre: 'Alternative/Indie',
+      available_start_time: new Date(),
+      end_time: new Date()
+    },
   ]);
   },
   
