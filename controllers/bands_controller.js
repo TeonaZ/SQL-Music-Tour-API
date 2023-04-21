@@ -41,7 +41,6 @@ bands.get('/:name', async (req, res) => {
 
                     },
                 },
-
                 {
                     model: Set_time,
                     as: 'set_times',
